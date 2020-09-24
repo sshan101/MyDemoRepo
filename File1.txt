@@ -1,5 +1,9 @@
 
 My name is Shyam Sunder. This is the master branch
 My name is Shyam Sunder. This is the master branch
+<<<<<<< HEAD
 This is the first branch change from Gitbash
 
+=======
+This is the first branch add and I want to see the changes being pulled
+>>>>>>> 85ea22c3fc8839eaa0e2f7e35c27a08b026c7974
